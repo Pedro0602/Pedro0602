@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação na <b>CESAR School</b> · Recife<br/>
+  Estudante de Ciência da Computação na <b>CESAR School</b> 
   Dados com <b>Python</b> e sistemas web com <b>Next.js + Supabase</b>
 </p>
 
