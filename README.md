@@ -1,7 +1,8 @@
 <h1 align="center">Olá, eu sou o Pedro Henrique 👋</h1>
 
 <p align="center">
-  Desenvolvedor em Recife · dados com <b>Python</b> e sistemas web com <b>Next.js + Supabase</b>
+  Estudante de Ciência da Computação na <b>CESAR School</b> · Recife<br/>
+  Dados com <b>Python</b> e sistemas web com <b>Next.js + Supabase</b>
 </p>
 
 <p align="center">
@@ -12,7 +13,8 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 📊 Estudo **Análise e Visualização de Dados**: EDA, estatística e dashboards interativos
+- 🎓 Curso **Ciência da Computação** na [CESAR School](https://www.cesar.school), em Recife
+- 📊 Na disciplina de **Análise e Visualização de Dados**: EDA, estatística e dashboards interativos
 - 🌐 Construo sistemas web completos, do banco de dados à tela, com foco em segurança
 - 🔐 Gosto de fazer as coisas direito: Row Level Security, arquivos privados, testes
 - 📍 Recife, PE · Brasil
