@@ -41,9 +41,3 @@
 | [**Acidentes em rodovias federais**](https://github.com/Pedro0602/avd-streamlit-acidentes) · [app ao vivo](https://avd-acidentes-rodovias.streamlit.app) | Dashboards interativos sobre acidentes nas rodovias federais: correlação, distribuição, KPIs e gráficos ligados (clicar numa UF filtra tudo) | Python · Streamlit · pandas · Altair · Parquet |
 | **Portal Comsert Ambiental** *(projeto para cliente, privado)* | Site institucional + área do cliente: cada empresa vê só os próprios documentos. Painel admin com envio em lote de PDFs, que identifica o cliente pelo nome do arquivo | Next.js 16 · React 19 · TypeScript · Tailwind · Supabase (Auth, RLS, Storage) · Vercel |
 
-### 📈 Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pedro0602&show_icons=true&locale=pt-br&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro0602&layout=compact&locale=pt-br&hide_border=true" />
-</p>
